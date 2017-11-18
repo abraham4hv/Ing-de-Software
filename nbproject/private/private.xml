@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/src/java/kitchen/servlets/IngresarPlatillo.java</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/web/perfilUsuario.jsp</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/web/login.jsp</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/src/java/kitchen/servlets/EliminarReservacion.java</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/src/java/kitchen/servlets/Reservar.java</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/web/crearCarta.jsp</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/web/misReservaciones.jsp</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/web/administracion.jsp</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/web/reservaciones.jsp</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/src/java/kitchen/modelo/Consultas.java</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/web/index.jsp</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/web/codes.html</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/src/java/kitchen/modelo/Autenticaciones.java</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/web/galeria.jsp</file>
+            <file>file:/Users/sotg10/NetBeansProjects/Kitchen/web/generico.jsp</file>
+        </group>
+    </open-files>
+</project-private>
